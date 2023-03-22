@@ -1,3 +1,22 @@
+body{
+    background-color: #3c3c3c;
+
+}
 p{
-    background-color: gray;
+    color: rgba(255, 254, 254, 0.952);
+    font-size: large;
+    width: 70%;
+}
+
+h1{
+    color: rgb(255, 85, 85);
+}
+
+#p1{
+    font-style: italic;
+    width: 90%;
+}
+
+.p2{
+    margin: auto;
 }
