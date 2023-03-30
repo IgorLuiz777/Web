@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
+
+body {
+    background-color: rgb(155, 208, 225);
+    /* background-image: url(../img/back.jpg); */
+    /* background-image: url(../img/tijolo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 30%; */
+}
+
+h1 {
+    font-family: 'Patrick Hand SC', cursive;
+    color: blue;
+    background-color: lightgray;
+    font-size: 200px;
+}
+
+#primeiro {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#segundo {
+    font-family: monospace;
+}
