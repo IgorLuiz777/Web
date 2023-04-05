@@ -1,0 +1,17 @@
+div{
+    background-color: #00ff95;
+    /* width: 400px; */
+    /* min-width: 50%; */
+    max-width: 40%; 
+    overflow: auto;
+    border-width: 10px;
+    border-style:ridge;
+    border-color: #26805A;
+    padding: 20px;
+    margin: 15px auto;
+}
+p {
+    
+    text-align: justify;
+
+}
