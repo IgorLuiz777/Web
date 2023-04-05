@@ -12,10 +12,12 @@ h2, h3, h4 {
     color: #ed145b;
     font: 24px/36px Gotham HTF Book;
     text-transform: uppercase;
+    margin: 20px;
 }
 
 p {
     color: #75838b;
+    margin: 20px;
     font: 20px/32px Gotham HTF Book;
     text-align: justify;
     text-transform: uppercase
@@ -34,4 +36,10 @@ a {
     margin: auto;
     display: block;
 
+}
+.imgsf {
+    margin: 25px;
+}
+.psf{
+    margin: 20px;
 }
