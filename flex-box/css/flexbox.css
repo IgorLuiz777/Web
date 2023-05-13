@@ -15,13 +15,13 @@
     /* flex-wrap: nowrap - Não quebra a linha */
     flex-wrap: wrap;
     /* justify-content: flex-end - Joga para a direira */
-    justify-content:;
+    justify-content: flex-end;
     align-items: baseline;
     align-content: flex-start;
 }
 
 
-.item{
+.item {
     background-color: rgb(146, 230, 146);
     border: 2px solid rgb(9, 90, 29);
     width: 300px;
@@ -29,9 +29,9 @@
 }
 
 .item1 {
-    order: 2;   
+    order: 2;
 }
 
-.item3{
+.item3 {
     order: -1;
 }
